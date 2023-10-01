@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cic1690
-- 👀 I’m interested in computer science/programming, pure mathematics, and theoretical physics
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in computer science/programming.
+- 🌱 I’m currently learning C++ Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on ... (Not sure yet. This is all very new to me.)
 - 📫 How to reach me ... (I'll get back to you on that.)
 
